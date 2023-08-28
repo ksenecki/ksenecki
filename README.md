@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kamil Senecki
+Hi! My name is Kamil Senecki
 =====================================================================================================================================
 
 Software Test Engineer. Scrum Master. Agile Coach.
 --------------------------------------------------
 
-I have have a strong embedded software testing background. Nowadays I teach about both Agile and Scrum using games and agile coaching so others can progress and have fun at the same time as well. I try to combine my passion for testing with Agile which helped me progress. Since over 3 years I am playing with web and mobile apps spending last year automating tests.
+I have a strong embedded software testing background. Nowadays I teach about both Agile and Scrum using games and agile coaching so others can progress and have fun at the same time as well. I tried to combine my passion for testing with Agile which helped me progress. For over 3 years I have been playing with web and mobile apps spending last year automating tests.
 
 * 🌍  I'm based in Kraków
-* 🚀  I'm currently working on [Metal Deals](http://metal.deals/)
+* 🚀  I'm currently working on [Zwinna Panda](https://zwinnapanda.pl/)
 * 🧠  I'm learning Playwright and ReactJS
-* ⚡  board game geek, yo-yo enthusiast and books lover
+* ⚡  board game geek, yo-yo enthusiast, and books lover
 
 
 ### Socials
