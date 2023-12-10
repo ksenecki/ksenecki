@@ -1,4 +1,4 @@
-Hi! My name is Kamil Senecki
+Hi! My name is Kamil
 =====================================================================================================================================
 
 Software Test Engineer. Scrum Master. Agile Coach.
@@ -10,7 +10,11 @@ I have a strong embedded software testing background. Nowadays I teach about bot
 * 🚀  I'm currently working on [Zwinna Panda](https://zwinnapanda.pl/)
 * 🧠  I'm learning Playwright and ReactJS
 * ⚡  board game geek, yo-yo enthusiast, and books lover
+---
 
+[![tryhackme stats](https://raw.githubusercontent.com/Pandzialf/Pandzialf/master/assets/thm_propic.png)][tryhackme]
+
+---
 
 ### Socials
 
