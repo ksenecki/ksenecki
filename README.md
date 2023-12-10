@@ -12,7 +12,7 @@ I have a strong embedded software testing background. Nowadays I teach about bot
 * ⚡  board game geek, yo-yo enthusiast, and books lover
 ---
 
-[![tryhackme stats](https://raw.githubusercontent.com/Pandzialf/Pandzialf/master/assets/thm_propic.png)][tryhackme]
+[![tryhackme stats](https://raw.githubusercontent.com/ksenecki/ksenecki/master/assets/thm_propic.png)][tryhackme]
 
 ---
 
