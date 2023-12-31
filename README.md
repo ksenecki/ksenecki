@@ -15,6 +15,7 @@ I have a strong embedded software testing background. Nowadays I teach about bot
 badge workflow to be fixed
 ![tryhackme stats](https://raw.githubusercontent.com/ksenecki/ksenecki/master/assets/thm_propic.png)
 -->
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/Pandzialf.png" alt="TryHackMe">
 
 ---
