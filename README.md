@@ -11,13 +11,13 @@ I have a strong embedded software testing background. Nowadays I teach about bot
 * 🧠  I'm learning PlaywrightJS
 * ⚡  board game geek, Cybersecurity enthusiast, and books lover
 ---
-<!--
-badge workflow to be fixed
+
 ![tryhackme stats](https://raw.githubusercontent.com/ksenecki/ksenecki/master/assets/thm_propic.png)
--->
 
+<!--
+badge workflow fixed, this is not needed anymore
 <img src="https://tryhackme-badges.s3.amazonaws.com/Pandzialf.png" alt="TryHackMe">
-
+-->
 ---
 
 ### Socials
