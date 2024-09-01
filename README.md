@@ -8,8 +8,8 @@ I have a strong embedded software testing background. Nowadays I teach about bot
 
 * 🌍  I'm based in Kraków
 * 🚀  I'm currently working on [Zwinna Panda](https://zwinnapanda.pl/)
-* 🧠  I'm learning PlaywrightJS
-* ⚡  board game geek, yo-yo player, cybersecurity enthusiast, and books lover
+* 🧠  I'm building AI agents at [ai_devs3](https://www.aidevs.pl/)
+* ⚡  Board game geek, yo-yo player, cybersecurity enthusiast, and books lover
 ---
 
 ![tryhackme stats](https://raw.githubusercontent.com/ksenecki/ksenecki/master/assets/thm_propic.png)
