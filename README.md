@@ -9,7 +9,7 @@ I have a strong embedded software testing background. Nowadays I teach about bot
 * 🌍  I'm based in Kraków
 * 🚀  Messing with content at [Zwinna Panda](https://zwinnapanda.pl/)
 * 🧠  Played with AI at [ai_managers](https://www.aimanagers.pl/)
-* 🤖  Fixing processes at [Pega](https://www.pega.com/)
+* 🤖  Fixing processes at [Pega](https://www.pega.com/)
 * ⚡  Board game geek, yo-yo player, cybersecurity enthusiast, and books lover
 ---
 
