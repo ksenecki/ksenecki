@@ -1,14 +1,15 @@
 Hi! My name is Kamil
 =====================================================================================================================================
 
-Software Test Engineer. Scrum Master. Cybersecurity enthusiast.
+Scrum Master. Software Test Engineer. Cybersecurity enthusiast.
 --------------------------------------------------
 
-I have a strong embedded software testing background. Nowadays I teach about both Agile and Scrum using games and agile coaching so others can progress and have fun at the same time as well. I tried to combine my passion for testing with Agile which helped me progress. For over 5 years I have been playing with web and mobile apps spending last year automating tests.
+I have a strong embedded software testing background. Nowadays I teach about both Agile and Scrum using games and agile coaching so others can progress and have fun at the same time as well. I tried to combine my passion for testing with Agile which helped me progress. For over 5 years I have been playing with web and mobile apps spending some time automating tests. Now I am helping to manage GenAI management chaos.
 
 * 🌍  I'm based in Kraków
-* 🚀  I'm currently working on [Zwinna Panda](https://zwinnapanda.pl/)
-* 🧠  I'm managing AI projects at [ai_managers](https://www.aimanagers.pl/)
+* 🚀  Messing with content at [Zwinna Panda](https://zwinnapanda.pl/)
+* 🧠  Played with AI at [ai_managers](https://www.aimanagers.pl/)
+* 🤖  Fixing processes at [Pega](https://www.pega.com/)
 * ⚡  Board game geek, yo-yo player, cybersecurity enthusiast, and books lover
 ---
 
